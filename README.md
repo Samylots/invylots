@@ -3,12 +3,12 @@ A rushed prototype of a food inventory manager done in rough PHP while I was in 
 
 ## Steps to run the project
 
-1- Create a MySql database
-2- import the sql dump of the backup located in the `.\db` folder
-3- edit the `.\mysql.php` and `.\mysql2.php` files to use the created user credentials and database
-4- run the website in an environment that is able to run PHP files (WAMP)
-5- Open the given URL to that deployed website
-6- Enjoy! Now you should be able to create your user with the main page
+1. Create a MySql database
+2. import the sql dump of the backup located in the `.\db` folder
+3. edit the `.\mysql.php` and `.\mysql2.php` files to use the created user credentials and database
+4. run the website in an environment that is able to run PHP files (WAMP)
+5. Open the given URL to that deployed website
+6. Enjoy! Now you should be able to create your user with the main page
 
 ## Notes
 Again, this website wasn't meant to be beautiful. This was a personal project I wanted to do since in my familly, I was tired to see my mother to struggle with which food we still have left or not in our storage to be able to decide which dish she can prepare for the next meal.
